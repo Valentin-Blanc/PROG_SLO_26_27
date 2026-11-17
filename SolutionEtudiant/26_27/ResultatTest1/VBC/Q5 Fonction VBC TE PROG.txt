@@ -8,3 +8,7 @@
 		Puissance = TouteInfo >> 8;
 		Resistance = TouteInfo; 
 	}
+
+
+
+
